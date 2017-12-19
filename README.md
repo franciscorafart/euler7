@@ -6,7 +6,7 @@ What is the 10 001st prime number?
 
 To run the program:
 
-Download files
-Go to project folder in your terminal
-run $node euler6.js
-Follow me on github!
+1. Download files
+2. Go to project folder in your terminal
+3. run $node euler6.js
+4. Follow me on github!
