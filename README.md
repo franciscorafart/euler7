@@ -8,5 +8,5 @@ To run the program:
 
 1. Download files
 2. Go to project folder in your terminal
-3. run $node euler6.js
+3. run $node euler7.js
 4. Follow me on github!
